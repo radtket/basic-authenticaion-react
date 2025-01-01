@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/react-context-authentication/static/js/main.164bf15f.chunk.js",
+    "main.js.map": "/react-context-authentication/static/js/main.164bf15f.chunk.js.map",
+    "runtime-main.js": "/react-context-authentication/static/js/runtime-main.2fc4c44a.js",
+    "runtime-main.js.map": "/react-context-authentication/static/js/runtime-main.2fc4c44a.js.map",
+    "static/js/2.80b9b89c.chunk.js": "/react-context-authentication/static/js/2.80b9b89c.chunk.js",
+    "static/js/2.80b9b89c.chunk.js.map": "/react-context-authentication/static/js/2.80b9b89c.chunk.js.map",
+    "index.html": "/react-context-authentication/index.html",
+    "precache-manifest.0529ca1393982048b210c5b30571c76e.js": "/react-context-authentication/precache-manifest.0529ca1393982048b210c5b30571c76e.js",
+    "service-worker.js": "/react-context-authentication/service-worker.js",
+    "static/js/2.80b9b89c.chunk.js.LICENSE.txt": "/react-context-authentication/static/js/2.80b9b89c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2fc4c44a.js",
+    "static/js/2.80b9b89c.chunk.js",
+    "static/js/main.164bf15f.chunk.js"
+  ]
+}
